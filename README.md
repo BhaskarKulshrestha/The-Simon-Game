@@ -5,3 +5,4 @@
 - JAVASCRIPT
 
 [Play the Game :)]('thesimongamefrombk.netlify.app')
+https://thesimongamefrombk.netlify.app/
