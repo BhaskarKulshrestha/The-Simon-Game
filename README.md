@@ -4,4 +4,4 @@
 - CSS
 - JAVASCRIPT
 
-[Visit the Site]('thesimongamefrombk.netlify.app')
+[Play the Game :)]('thesimongamefrombk.netlify.app')
