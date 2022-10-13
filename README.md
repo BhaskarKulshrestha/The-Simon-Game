@@ -4,4 +4,4 @@
 - CSS
 - JAVASCRIPT
 
-[Play the Game :)](https://thesimongamefrombk.netlify.app/)
+[Play the Game :)](https://external.ink.thesimongamefrombk.netlify.app/)
