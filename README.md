@@ -6,4 +6,4 @@
 
 [Play the Game :)]('https://thesimongamefrombk.netlify.app/')
 https://thesimongamefrombk.netlify.app/
-[This is an external link to genome.gov](https://www.genome.gov/)
+[This is an external link to genome.gov](https://thesimongamefrombk.netlify.app/)
