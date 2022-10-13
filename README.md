@@ -4,5 +4,6 @@
 - CSS
 - JAVASCRIPT
 
-[Play the Game :)]('https://www.googgle.com/')
+[Play the Game :)]('https://thesimongamefrombk.netlify.app/')
 https://thesimongamefrombk.netlify.app/
+[This is an external link to genome.gov](https://www.genome.gov/)
